@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  text-align: center;
+}
+
+#paste-form {
+  margin: 0 auto;
+  width: 50%;
+}
+
+#paste-input {
+  width: 100%;
+}
+
+#paste-output {
+  margin: 20px auto;
+  width: 50%;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
